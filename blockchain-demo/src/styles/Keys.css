@@ -1,0 +1,41 @@
+.Keys {
+    margin: 40px auto;
+    width: 70%;
+    height: 300px;
+    border: 1px solid rgb(233, 233, 233);
+}
+
+.Keys h1 {
+    font-weight: normal;
+    margin-top: 0px;
+    background-Color: rgb(240, 240, 240);
+    height: 60px;
+    border: 1px solid rgb(233, 233, 233);
+}
+
+.Keys ul {
+    list-style: none;
+}
+
+.Keys ul label {
+    font-size: 20px;
+}
+
+.Keys input {
+    height: 50px;
+    font-size: 20px;
+    width: 90%;
+}
+
+.Keys button {
+    height: 55px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(160, 160, 160);
+
+}
+
+.Keys button:hover {
+
+    background-color: rgb(121, 121, 121);
+}

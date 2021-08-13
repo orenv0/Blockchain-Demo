@@ -1,0 +1,54 @@
+.block {
+    padding: 15px;
+    margin: auto;
+    width: 70%;
+    overflow: 0 auto;
+    background-color: rgb(227, 250, 227);
+}
+
+.block ul {
+    list-style: none;
+}
+
+.block li {
+    display: inline;
+    margin-left: 6%;
+}
+
+.block label {
+    font-weight: bold;
+    position: absolute;
+    margin-top: 25px;
+}
+
+.block input {
+    margin-top: 20px;
+    width: 800px;
+    height: 30px;
+}
+
+.HashResult:hover {
+    cursor: not-allowed;
+}
+
+.block textarea {
+    margin-top: 20px;
+    width: 800px;
+
+}
+
+.block textarea:focus {
+    outline: none !important;
+    border-color: #71a9ce;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+.block input:focus {
+    outline: none !important;
+    border-color: #71a9ce;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+/* .Reactiveblock {
+    background-color: rgb(227, 250, 227);
+} */

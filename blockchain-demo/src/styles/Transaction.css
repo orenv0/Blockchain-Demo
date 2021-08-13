@@ -1,0 +1,17 @@
+.columns li input,
+.rows li input,
+.rows li button {
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    width: 90%;
+}
+
+.columns li {
+    display: inline;
+}
+
+.rows li {
+    display: block;
+}
